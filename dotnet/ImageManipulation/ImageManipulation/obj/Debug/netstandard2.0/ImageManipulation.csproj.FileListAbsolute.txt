@@ -1,9 +1,0 @@
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\bin\Debug\netstandard2.0\ImageManipulation.deps.json
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\bin\Debug\netstandard2.0\ImageManipulation.dll
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.csprojAssemblyReference.cache
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.AssemblyInfoInputs.cache
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.AssemblyInfo.cs
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\bin\Debug\netstandard2.0\ImageManipulation.pdb
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.csproj.CoreCompileInputs.cache
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.dll
-C:\Users\madsk\source\repos\opencv\dotnet\ImageManipulation\ImageManipulation\obj\Debug\netstandard2.0\ImageManipulation.pdb

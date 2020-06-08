@@ -10,6 +10,7 @@ Thumbs.db
 tags
 tegra/
 bin/
+obj/
 *.sdf
 *.opensdf
 *.obj
